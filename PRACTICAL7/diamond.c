@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    //ABHISHEK YADAV_10063
+    //DEV PATHAK_10453
     int n;
     printf("Enter the value of n: ");
     scanf("%d", &n);

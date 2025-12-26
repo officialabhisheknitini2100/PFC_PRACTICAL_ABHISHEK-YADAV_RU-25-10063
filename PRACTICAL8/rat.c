@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Abhsihek Yadav_10063
+// DEV PATHAK_10453
 void printTriangle(int n){
     for (int i=1;i<=n;i++){
         for (int j=1;j<=i;j++){
