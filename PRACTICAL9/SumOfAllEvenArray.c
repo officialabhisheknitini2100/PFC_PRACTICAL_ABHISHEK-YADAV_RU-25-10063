@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Name= Abhishek Yadav (ERP=10063)
+// Name= Abhishek Yadav  (ERP=10063)
 
 int main() {
     int arr[7] = {10, 21, 32, 43, 54, 65, 76}, n = 7, sum = 0;

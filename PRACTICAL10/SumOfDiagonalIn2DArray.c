@@ -1,5 +1,5 @@
 #include <stdio.h>
-// NAME = Abhishek Yadav (ERP-10063)
+// NAME = Abhishek Yadav   (ERP-10063)
 int main() {
     int p, i, j, sum=0;
     printf("Enter size of square matrix: ");

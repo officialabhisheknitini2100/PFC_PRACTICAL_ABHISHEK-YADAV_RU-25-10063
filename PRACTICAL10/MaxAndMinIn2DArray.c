@@ -1,5 +1,5 @@
 #include <stdio.h>
-// NAME = Abhishek Yadav (ERP-10063);
+// NAME = Abhishek Yadav  (ERP-10063);
 int main() {
     int r, c, i, j, max, min;
     printf("Enter rows and columns: ");

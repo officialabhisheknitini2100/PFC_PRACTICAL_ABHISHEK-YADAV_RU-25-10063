@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Abhishek Yadav (ERP=10063);
+//Abhishek Yadav  (ERP=10063);
 int main() {
     int arr[5] = {1, 2, 3, 4, 5}, n = 5;
     printf("Original: ");
